@@ -11,15 +11,15 @@ Los juegos incluidos en la **1st Generation** son los únicos mantenidos actualm
 | Archivo | Descripción |
 |---------|-------------|
 | `generated-1.py` | Terminal Hacker: Origen |
-| `generated-2.py` | Juego generado #2 |
-| `generated-3.py` | Juego generado #3 |
-| `generated-4.py` | Juego generado #4 |
-| `generated-5.py` | Juego generado #5 |
-| `generated-6.py` | Juego generado #6 |
-| `generated-7.py` | Juego generado #7 |
-| `generated-8.py` | Juego generado #8 |
-| `generated-9.py` | Juego generado #9 |
-| `generated-10.py` | Juego generado #10 |
+| `generated-2.py` | Ecosistema Evolutivo |
+| `generated-3.py` | El Dungeon que se Programa Solo |
+| `generated-4.py` | Simulador de IA Rebelde |
+| `generated-5.py` | El Juego que se Rompe |
+| `generated-6.py` | Conquista de Texto |
+| `generated-7.py` | Mente Fragmentada |
+| `generated-8.py` | Simulador de Mercado Caótico |
+| `generated-9.py` | El Laberinto Vivo |
+| `generated-10.py` | Debugger: El Juego |
 
 ## Requisitos del entorno
 
