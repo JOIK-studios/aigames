@@ -1,8 +1,8 @@
 # aigames 🎮
 
-Colección de juegos de terminal generados completamente por IA.
+colección de juegos de terminal generados completamente por IA.
 
-> **AVISO:** Todas las ideas y el código han sido **generados íntegramente por IA**. El único aporte humano ha sido escribir los prompts.
+> **AVISO:** todas las ideas y el código han sido **generados íntegramente por IA**. OpenClaw se ha encargado de esto personalmente :)
 
 ---
 
